@@ -38,8 +38,6 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         } else {
             return 4
         }
-        
-        
     }
 
     //UIPickerViewDelegate method
